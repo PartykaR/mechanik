@@ -3,4 +3,9 @@ jspm_packages
 dist/
 src/
 html/
+.gitignore
+gulpfile.js
+infoOkliencie.txt
+package-lock.json
+package.json
 
