@@ -1,0 +1,44 @@
+Hosting Provider: OVH SAS
+IP Address: 87.98.239.3
+Nameservers: ns104.ovh.net dns104.ovh.net
+
+NAZWA DOMENY: autonaprawa-makowka.pl
+typ abonenta: organizacja
+serwery nazw: dns104.ovh.net. 
+ ns104.ovh.net. 
+utworzona: 2013.03.18 14:10:08
+ostatnia modyfikacja: 2023.02.09 15:57:00
+koniec okresu rozliczeniowego: 2024.03.18 14:10:08
+
+opcja: brak
+
+dnssec: brak
+
+ABONENT:
+firma: Firma handlwo-usługowa Janusz Makówka
+ulica: Ul.Myślenicka 50a
+miasto: 30-613 Kraków
+lokalizacja: PL
+telefon: +48.501477521
+fax: +48.126546248
+ostatnia modyfikacja: 2019.02.16
+
+
+
+REJESTRATOR:
+OVH SAS
+2 Rue Kellermann
+59100 Roubaix
+Francja/France
+Tel: +48.717500200
+https://www.ovhcloud.com
+
+
+/////NOTKI OD EDTORA VSC \\\\\\\\\\\\\\
+
+$blue-gradient: linear-gradient(45deg, rgba(20, 105, 241, 0.75), rgba(42, 10, 184, 0.75));
+
+
+
+
+
